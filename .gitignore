@@ -1,1 +1,5 @@
 .DS_Store
+
+# ignore local sublime project files
+jskoans.sublime-project
+jskoans.sublime-workspace
